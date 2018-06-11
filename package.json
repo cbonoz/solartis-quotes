@@ -1,0 +1,37 @@
+{
+  "name": "solartis-cli",
+  "version": "1.0.0",
+  "description": "Get insurance quotes from the command line",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbonoz/solartis-quotes.git"
+  },
+  "keywords": [
+    "solartis",
+    "quotes",
+    "insurance",
+    "cli",
+    "command",
+    "line"
+  ],
+  "author": "Chris Buonocore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbonoz/solartis-quotes/issues"
+  },
+  "homepage": "https://github.com/cbonoz/solartis-quotes#readme",
+  "dependencies": {
+    "country-list": "^1.1.0",
+    "countryjs": "^1.8.0",
+    "inquirer": "^6.0.0",
+    "prettyjson": "^1.2.1",
+    "sugar-date": "^2.0.4",
+    "superagent": "^3.8.3",
+    "us-state-codes": "^1.1.0"
+  }
+}
