@@ -5,8 +5,9 @@
 SolartisCLI
 ---
 
-Unofficial tool - a hackathon project.
-Browse and buy insurance policies directly from the command line using Solartis API's!
+<b>Browse and buy insurance policies directly from the command line using Solartis API's!</b>
+<br/>
+<i>Unofficial tool - a hackathon project.</i>
 
 ### Concept:
 
