@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./screenshots/logo.png"/>
+    <img src="./screenshots/logo.png" width=400/>
 </p>
 
 Solartis Insurance API
