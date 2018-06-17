@@ -41,14 +41,15 @@ This video goes through the user process of buying a new travel insurance policy
 ### Screenshots:
 
 * Starting the process of a new travel policy quote:
-<br/>
-<img src="./screenshots/start.png" width=600>
+<br/><br/>
+<img src="./screenshots/start.png" width=600/>
 * Screenshot showing a generated policy:
+<br/><br/>
 <br/>
-<img src="./screenshots/quote.png" width=600>
+<img src="./screenshots/quote.png" width=600/>
 * Completing the purchase of the policy:
-<br/>
-<img src="./screenshots/pay.png" width=600>
+<br/><br/>
+<img src="./screenshots/pay.png" width=600/>
 
 <p>All from the command line.</p>
 
