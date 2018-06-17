@@ -2,12 +2,13 @@
     <img src="./screenshots/logo.png" width=400/>
 </p>
 
-Solartis Insurance API
+SolartisCLI
 ---
 
-Browse and buy insurance policies from the command line!
+Unofficial tool - a hackathon project.
+Browse and buy insurance policies directly from the command line using Solartis API's!
 
-### Concept
+### Concept:
 
 Nobody wants to fill out forms or have phone calls regarding insurance anymore.
 This command line tool allows users to get quotes and purchase insurance policies directly and securely from the command line. 
@@ -39,10 +40,13 @@ This video goes through the user process of buying a new travel insurance policy
 ### Screenshots:
 
 * Starting the process of a new travel policy quote:
+<br/>
 <img src="./screenshots/start.png" width=600>
 * Screenshot showing a generated policy:
+<br/>
 <img src="./screenshots/quote.png" width=600>
 * Completing the purchase of the policy:
+<br/>
 <img src="./screenshots/pay.png" width=600>
 
 <p>All from the command line.</p>
