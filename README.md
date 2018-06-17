@@ -18,16 +18,29 @@ This tool allows users to get quotes and purchase insurance directly from the co
 <pre>
     npm install
 </pre>
-* Start the app.
+* Start the app from the command line.
 <pre>
     npm start
 </pre>
 
 That's it!
 
-### Example:
+### Demo Video:
+This video goes through the user process of buying a new travel insurance policy from the command line in about 90 seconds.
+
+<a href="https://youtu.be/TMai5mufyQA" target="_blank">Demo Video</a>
+
+### Screenshots:
+
+#### Starting the process of a new travel policy quote.
+<img src="./screenshots/start.png" width=400>
+#### Screenshot showing a generated policy.
+<img src="./screenshots/quote.png" width=400>
+#### Completing the purchase of the policy
+<img src="./screenshots/pay.png" width=400>
+
+<p>All from the command line.</p>
 
 
-
-### Dev Notes:
-<!-- * https://github.com/SBoudrias/Inquirer.js/blob/master/packages/inquirer/examples/ -->
+### Dev Notes for CLI implementation:
+* https://github.com/SBoudrias/Inquirer.js/blob/master/packages/inquirer/examples/
