@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./screenshots/start.png"/>
+</p>
+
 Solartis Insurance API
 ---
 
